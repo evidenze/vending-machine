@@ -1,0 +1,21 @@
+{
+  "server": {
+    "port": 2222,
+    "origin": "http://localhost:3000"
+  },
+  "db": {
+    "host": "localhost",
+    "type": "mongodb",
+    "port": 27017,
+    "database": "vending",
+    "username": "",
+    "password": ""
+  },
+  "app": {
+    "name": "Vending Machine",
+    "version": "v0.1",
+    "description": "Vending Machine API",
+    "appUrl": "http://localhost:2222",
+    "frontendUrl": "http://localhost:3000"
+  }
+}
