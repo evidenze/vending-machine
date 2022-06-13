@@ -25,4 +25,4 @@ A Vending Machine API made using Nodejs typescript framework Nestjs.
     ```
 6) If everything goes well and you have set your backend default running port as 2222, you can visit your application through [http://localhost:2222](http://localhost:2222)
 
-7) To view swagger documentation visit [http://localhost:7777/api](http://localhost:7777/api)
+7) To view swagger documentation visit [http://localhost:2222/api](http://localhost:2222/api)
